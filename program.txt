@@ -1,0 +1,9 @@
+/*
+Name: Maaz Aslam Chogle                                             Batch: 1
+Roll no.: 21CO19                                                  Sem: VI
+*/
+Void main()
+{
+    int a, b, c;
+    c = a + b;
+}
