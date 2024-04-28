@@ -1,8 +1,3 @@
-/*
-Name: Maaz Aslam Chogle                                                Batch: 1
-Roll no.: 21CO19                                                   Sem: VI
-               Aim Lexical Analyzer
-*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
